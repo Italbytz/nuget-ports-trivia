@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
+    <PackOnBuild>true</PackOnBuild>
+    <PackageVersion>0.1.0</PackageVersion>
+    <Authors>Robin Nunkesser</Authors>
+    <PackageLicenseUrl>https://github.com/Italbytz/trivia-ports-nuget/blob/main/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/Italbytz/trivia-ports-nuget</PackageProjectUrl>
+    <Description>Ports for trivia </Description>
+  </PropertyGroup>
+
+</Project>
