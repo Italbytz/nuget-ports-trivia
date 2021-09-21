@@ -1,7 +1,7 @@
 ﻿using System;
 namespace TriviaPorts
 {
-    public interface IYesNoQuestion
+    public interface IYesNoQuestion : IQuestion
     {
         bool Answer { get; set; }
     }
