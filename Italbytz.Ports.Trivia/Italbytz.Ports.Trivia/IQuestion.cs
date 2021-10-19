@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace TriviaPorts
+namespace Italbytz.Ports.Trivia
 {
     public interface IQuestion
     {

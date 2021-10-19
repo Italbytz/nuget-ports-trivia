@@ -1,5 +1,5 @@
 ﻿using System;
-namespace TriviaPorts
+namespace Italbytz.Ports.Trivia
 {
     public interface IYesNoQuestion : IQuestion
     {

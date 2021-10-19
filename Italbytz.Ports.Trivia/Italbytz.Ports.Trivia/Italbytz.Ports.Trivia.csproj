@@ -3,10 +3,10 @@
   <PropertyGroup>
     <TargetFrameworks>netstandard2.0;netstandard2.1</TargetFrameworks>
     <PackOnBuild>true</PackOnBuild>
-    <PackageVersion>0.1.1</PackageVersion>
+    <PackageVersion>0.1.2</PackageVersion>
     <Authors>Robin Nunkesser</Authors>
-    <PackageLicenseUrl>https://github.com/Italbytz/trivia-ports-nuget/blob/main/LICENSE</PackageLicenseUrl>
-    <PackageProjectUrl>https://github.com/Italbytz/trivia-ports-nuget</PackageProjectUrl>
+    <PackageLicenseUrl>https://github.com/Italbytz/nuget-ports-trivia/blob/main/LICENSE</PackageLicenseUrl>
+    <PackageProjectUrl>https://github.com/Italbytz/nuget-ports-trivia</PackageProjectUrl>
     <Description>Ports for trivia </Description>
   </PropertyGroup>
 
