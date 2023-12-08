@@ -3,9 +3,9 @@
     {
       "src": [
         {
-          "src": "../Italbytz.Ports.Algorithms",
+          "src": "../Italbytz.Ports.Trivia",
           "files": [
-            "Italbytz.Ports.Algorithms/*.csproj"
+            "Italbytz.Ports.Trivia/*.csproj"
           ]
         }
       ],
@@ -36,8 +36,8 @@
       "modern"
     ],
     "globalMetadata": {
-      "_appName": "Italbytz.Ports.Algorithms",
-      "_appTitle": "Italbytz.Ports.Algorithms",
+      "_appName": "Italbytz.Ports.Trivia",
+      "_appTitle": "Italbytz.Ports.Trivia",
       "_enableSearch": true,
       "pdf": false
     }
